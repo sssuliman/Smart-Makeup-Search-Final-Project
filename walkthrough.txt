@@ -1,0 +1,15 @@
+# Walkthrough – Smart Makeup Search Using Trie Data Structure
+
+## 1. Project Summary
+This C++ application helps users search for makeup products using a smart autocomplete system powered by a Trie (prefix tree). Users type a partial product name and receive fast suggestions that match the prefix.
+
+## 2. How It Works
+- The program loads a list of makeup products from a file (`products.txt`)
+- Each product name is inserted into the Trie
+- When a user types in a prefix, the Trie is searched using DFS to collect and return all valid word suggestions that start with that prefix
+
+## 3. Example Use Case
+If the user types: fen
+The oytput will be: 
+	•	Fenty Foundation
+	•	Fenty Lip Gloss
