@@ -1,5 +1,5 @@
 CXX = g++
-CXXFLAGS = -std=c++11 -Wall
+CXXFLAGS = -std=c++17 -Wall
 INCLUDES = -Iinclude
 SRC = src/main.cpp src/Trie.cpp
 TARGET = SmartMakeupSearch
