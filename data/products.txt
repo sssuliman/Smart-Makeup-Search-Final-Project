@@ -1,15 +1,156 @@
-Fenty Foundation
-Fenty Lip Gloss
-Maybelline Mascara
-L’Oréal Eyeliner
-NYX Brow Pencil
-Revlon Concealer
-NARS Blush
-Glossier Skin Tint
-Milani Lipstick
-Black Opal Setting Powder
-e.l.f. Hydrating Primer
-Clinique Moisture Surge CC Cream
-Rare Beauty Liquid Blush
-Tarte Shape Tape Concealer
-MAC Studio Fix Foundation
+Brand: Benefit Cosmetics | Skin Type: All | Category: Primer | Product: The POREfessional Face Primer
+Brand: Milk Makeup | Skin Type: Dry/Combo | Category: Primer | Product: Hydro Grip Primer
+Brand: Tatcha | Skin Type: All | Category: Primer | Product: The Silk Canvas Protective Primer
+Brand: Smashbox | Skin Type: Oily | Category: Primer | Product: Photo Finish Foundation Primer
+Brand: Fenty Beauty | Skin Type: Combo/Oily | Category: Primer | Product: Pro Filt’r Mattifying Primer
+Brand: Estée Lauder | Skin Type: Oily/Combo | Category: Foundation | Product: Double Wear Stay-in-Place Foundation
+Brand: NARS | Skin Type: Normal | Category: Foundation | Product: Natural Radiant Longwear Foundation
+Brand: Fenty Beauty | Skin Type: All | Category: Foundation | Product: Pro Filt’r Soft Matte Longwear Foundation
+Brand: Giorgio Armani | Skin Type: Normal/Dry | Category: Foundation | Product: Luminous Silk Foundation
+Brand: Huda Beauty | Skin Type: Combo | Category: Foundation | Product: #FauxFilter Luminous Matte Foundation
+Brand: Tarte | Skin Type: All | Category: Concealer | Product: Shape Tape Concealer
+Brand: NARS | Skin Type: All | Category: Concealer | Product: Radiant Creamy Concealer
+Brand: Too Faced | Skin Type: All | Category: Concealer | Product: Born This Way Super Coverage Concealer
+Brand: Fenty Beauty | Skin Type: All | Category: Concealer | Product: Pro Filt’r Instant Retouch Concealer
+Brand: Urban Decay | Skin Type: Combo | Category: Concealer | Product: Stay Naked Correcting Concealer
+Brand: Laura Mercier | Skin Type: All | Category: Powder | Product: Translucent Loose Setting Powder
+Brand: Huda Beauty | Skin Type: Oily | Category: Powder | Product: Easy Bake Loose Baking & Setting Powder
+Brand: Charlotte Tilbury | Skin Type: All | Category: Powder | Product: Airbrush Flawless Finish Setting Powder
+Brand: Hourglass | Skin Type: Dry/Normal | Category: Powder | Product: Veil Translucent Setting Powder
+Brand: Becca | Skin Type: Normal | Category: Highlighter | Product: Shimmering Skin Perfector Pressed Highlighter
+Brand: Anastasia Beverly Hills | Skin Type: All | Category: Highlighter | Product: Amrezy Highlighter
+Brand: Fenty Beauty | Skin Type: All | Category: Highlighter | Product: Killawatt Freestyle Highlighter
+Brand: Rare Beauty | Skin Type: All | Category: Highlighter | Product: Positive Light Liquid Luminizer
+Brand: Milk Makeup | Skin Type: Normal/Dry | Category: Highlighter | Product: Flex Highlighter
+Brand: NARS | Skin Type: All | Category: Blush | Product: Blush in Orgasm
+Brand: Tarte | Skin Type: All | Category: Blush | Product: Amazonian Clay 12-Hour Blush
+Brand: Rare Beauty | Skin Type: All | Category: Blush | Product: Soft Pinch Liquid Blush
+Brand: Benefit Cosmetics | Skin Type: All | Category: Blush | Product: Dandelion Brightening Blush
+Brand: MILK MAKEUP | Skin Type: Dry | Category: Blush | Product: Lip + Cheek Cream Blush Stick
+Brand: Benefit Cosmetics | Skin Type: All | Category: Bronzer | Product: Hoola Matte Bronzer
+Brand: Fenty Beauty | Skin Type: All | Category: Bronzer | Product: Sun Stalk’r Instant Warmth Bronzer
+Brand: NARS | Skin Type: All | Category: Bronzer | Product: Bronzing Powder in Laguna
+Brand: Too Faced | Skin Type: All | Category: Bronzer | Product: Chocolate Soleil Matte Bronzer
+Brand: Charlotte Tilbury | Skin Type: All | Category: Bronzer | Product: Airbrush Bronzer
+Brand: Dior | Skin Type: All | Category: Lip Oil | Product: Addict Lip Glow Oil
+Brand: Fenty Beauty | Skin Type: All | Category: Lip Gloss | Product: Gloss Bomb Universal Lip Luminizer
+Brand: Charlotte Tilbury | Skin Type: All | Category: Lipstick | Product: Matte Revolution Lipstick in Pillow Talk
+Brand: NARS | Skin Type: All | Category: Lipstick | Product: Audacious Lipstick
+Brand: Rare Beauty | Skin Type: All | Category: Lipstick | Product: Lip Soufflé Matte Cream Lipstick
+Brand: YSL | Skin Type: All | Category: Lipstick | Product: Rouge Volupté Shine Lipstick Balm
+Brand: Pat McGrath Labs | Skin Type: All | Category: Lipstick | Product: MatteTrance Lipstick
+Brand: Huda Beauty | Skin Type: All | Category: Lipstick | Product: Power Bullet Matte Lipstick
+Brand: Charlotte Tilbury | Skin Type: All | Category: Lip Liner | Product: Lip Cheat Lip Liner
+Brand: MAKEUP BY MARIO | Skin Type: All | Category: Lip Liner | Product: Ultra Suede Sculpting Lip Pencil
+Brand: Sephora Collection | Skin Type: All | Category: Lip Liner | Product: Retractable Lip Liner
+Brand: Anastasia Beverly Hills | Skin Type: All | Category: Eyebrow | Product: Brow Wiz
+Brand: Urban Decay | Skin Type: All | Category: Eyebrow | Product: Brow Blade
+Brand: Rare Beauty | Skin Type: All | Category: Eyebrow | Product: Brow Harmony Pencil & Gel
+Brand: Too Faced | Skin Type: All | Category: Mascara | Product: Better Than Sex Mascara
+Brand: Fenty Beauty | Skin Type: All | Category: Mascara | Product: Full Frontal Volume, Lift & Curl Mascara
+Brand: ILIA | Skin Type: All | Category: Mascara | Product: Limitless Lash Mascara
+Brand: KVD Beauty | Skin Type: All | Category: Eyeliner | Product: Tattoo Liner
+Brand: Stila | Skin Type: All | Category: Eyeliner | Product: Stay All Day Waterproof Liquid Eyeliner
+Brand: Urban Decay | Skin Type: All | Category: Setting Spray | Product: All Nighter Long-Lasting Makeup Setting Spray
+Brand: Milk Makeup | Skin Type: All | Category: Setting Spray | Product: Hydro Grip Set + Refresh Spray
+Brand: IT Cosmetics | Skin Type: Sensitive | Category: CC Cream | Product: Your Skin But Better CC+ Cream
+Brand: Glossier | Skin Type: Normal/Dry | Category: Tint | Product: Perfecting Skin Tint
+Brand: Benefit Cosmetics | Skin Type: All | Category: Primer | Product: The POREfessional Face Primer
+Brand: Milk Makeup | Skin Type: Dry/Combo | Category: Primer | Product: Hydro Grip Primer
+Brand: Tatcha | Skin Type: All | Category: Primer | Product: The Silk Canvas Protective Primer
+Brand: Smashbox | Skin Type: Oily | Category: Primer | Product: Photo Finish Foundation Primer
+Brand: Fenty Beauty | Skin Type: Combo/Oily | Category: Primer | Product: Pro Filt’r Mattifying Primer
+Brand: Estée Lauder | Skin Type: Oily/Combo | Category: Foundation | Product: Double Wear Stay-in-Place Foundation
+Brand: NARS | Skin Type: Normal | Category: Foundation | Product: Natural Radiant Longwear Foundation
+Brand: Fenty Beauty | Skin Type: All | Category: Foundation | Product: Pro Filt’r Soft Matte Longwear Foundation
+Brand: Giorgio Armani | Skin Type: Normal/Dry | Category: Foundation | Product: Luminous Silk Foundation
+Brand: Huda Beauty | Skin Type: Combo | Category: Foundation | Product: #FauxFilter Luminous Matte Foundation
+Brand: Tarte | Skin Type: All | Category: Concealer | Product: Shape Tape Concealer
+Brand: NARS | Skin Type: All | Category: Concealer | Product: Radiant Creamy Concealer
+Brand: Too Faced | Skin Type: All | Category: Concealer | Product: Born This Way Super Coverage Concealer
+Brand: Fenty Beauty | Skin Type: All | Category: Concealer | Product: Pro Filt’r Instant Retouch Concealer
+Brand: Urban Decay | Skin Type: Combo | Category: Concealer | Product: Stay Naked Correcting Concealer
+Brand: Laura Mercier | Skin Type: All | Category: Powder | Product: Translucent Loose Setting Powder
+Brand: Huda Beauty | Skin Type: Oily | Category: Powder | Product: Easy Bake Loose Baking & Setting Powder
+Brand: Charlotte Tilbury | Skin Type: All | Category: Powder | Product: Airbrush Flawless Finish Setting Powder
+Brand: Hourglass | Skin Type: Dry/Normal | Category: Powder | Product: Veil Translucent Setting Powder
+Brand: Becca | Skin Type: Normal | Category: Highlighter | Product: Shimmering Skin Perfector Pressed Highlighter
+Brand: Anastasia Beverly Hills | Skin Type: All | Category: Highlighter | Product: Amrezy Highlighter
+Brand: Fenty Beauty | Skin Type: All | Category: Highlighter | Product: Killawatt Freestyle Highlighter
+Brand: Rare Beauty | Skin Type: All | Category: Highlighter | Product: Positive Light Liquid Luminizer
+Brand: Milk Makeup | Skin Type: Normal/Dry | Category: Highlighter | Product: Flex Highlighter
+Brand: NARS | Skin Type: All | Category: Blush | Product: Blush in Orgasm
+Brand: Tarte | Skin Type: All | Category: Blush | Product: Amazonian Clay 12-Hour Blush
+Brand: Rare Beauty | Skin Type: All | Category: Blush | Product: Soft Pinch Liquid Blush
+Brand: Benefit Cosmetics | Skin Type: All | Category: Blush | Product: Dandelion Brightening Blush
+Brand: MILK MAKEUP | Skin Type: Dry | Category: Blush | Product: Lip + Cheek Cream Blush Stick
+Brand: Benefit Cosmetics | Skin Type: All | Category: Bronzer | Product: Hoola Matte Bronzer
+Brand: Fenty Beauty | Skin Type: All | Category: Bronzer | Product: Sun Stalk’r Instant Warmth Bronzer
+Brand: NARS | Skin Type: All | Category: Bronzer | Product: Bronzing Powder in Laguna
+Brand: Too Faced | Skin Type: All | Category: Bronzer | Product: Chocolate Soleil Matte Bronzer
+Brand: Charlotte Tilbury | Skin Type: All | Category: Bronzer | Product: Airbrush Bronzer
+Brand: Dior | Skin Type: All | Category: Lip Oil | Product: Addict Lip Glow Oil
+Brand: Fenty Beauty | Skin Type: All | Category: Lip Gloss | Product: Gloss Bomb Universal Lip Luminizer
+Brand: Charlotte Tilbury | Skin Type: All | Category: Lipstick | Product: Matte Revolution Lipstick in Pillow Talk
+Brand: NARS | Skin Type: All | Category: Lipstick | Product: Audacious Lipstick
+Brand: Rare Beauty | Skin Type: All | Category: Lipstick | Product: Lip Soufflé Matte Cream Lipstick
+Brand: YSL | Skin Type: All | Category: Lipstick | Product: Rouge Volupté Shine Lipstick Balm
+Brand: Pat McGrath Labs | Skin Type: All | Category: Lipstick | Product: MatteTrance Lipstick
+Brand: Huda Beauty | Skin Type: All | Category: Lipstick | Product: Power Bullet Matte Lipstick
+Brand: Charlotte Tilbury | Skin Type: All | Category: Lip Liner | Product: Lip Cheat Lip Liner
+Brand: MAKEUP BY MARIO | Skin Type: All | Category: Lip Liner | Product: Ultra Suede Sculpting Lip Pencil
+Brand: Sephora Collection | Skin Type: All | Category: Lip Liner | Product: Retractable Lip Liner
+Brand: Anastasia Beverly Hills | Skin Type: All | Category: Eyebrow | Product: Brow Wiz
+Brand: Urban Decay | Skin Type: All | Category: Eyebrow | Product: Brow Blade
+Brand: Rare Beauty | Skin Type: All | Category: Eyebrow | Product: Brow Harmony Pencil & Gel
+Brand: Too Faced | Skin Type: All | Category: Mascara | Product: Better Than Sex Mascara
+Brand: Fenty Beauty | Skin Type: All | Category: Mascara | Product: Full Frontal Volume, Lift & Curl Mascara
+Brand: ILIA | Skin Type: All | Category: Mascara | Product: Limitless Lash Mascara
+Brand: KVD Beauty | Skin Type: All | Category: Eyeliner | Product: Tattoo Liner
+Brand: Stila | Skin Type: All | Category: Eyeliner | Product: Stay All Day Waterproof Liquid Eyeliner
+Brand: Urban Decay | Skin Type: All | Category: Setting Spray | Product: All Nighter Long-Lasting Makeup Setting Spray
+Brand: Milk Makeup | Skin Type: All | Category: Setting Spray | Product: Hydro Grip Set + Refresh Spray
+Brand: IT Cosmetics | Skin Type: Sensitive | Category: CC Cream | Product: Your Skin But Better CC+ Cream
+Brand: Glossier | Skin Type: Normal/Dry | Category: Tint | Product: Perfecting Skin Tint
+Brand: Sephora Collection | Skin Type: All | Category: Lipstick | Product: Cream Lip Stain Liquid Lipstick
+Brand: Natasha Denona | Skin Type: All | Category: Eyeshadow | Product: Glam Eyeshadow Palette
+Brand: Huda Beauty | Skin Type: All | Category: Eyeshadow | Product: Nude Obsessions Eyeshadow Palette
+Brand: Patrick Ta | Skin Type: All | Category: Blush | Product: Major Headlines Double-Take Crème & Powder Blush
+Brand: Make Up For Ever | Skin Type: All | Category: Foundation | Product: HD Skin Undetectable Longwear Foundation
+Brand: Tarte | Skin Type: All | Category: Setting Spray | Product: Maracuja Miracle Mist Setting Spray
+Brand: NARS | Skin Type: All | Category: Setting Powder | Product: Light Reflecting Pressed Setting Powder
+Brand: Charlotte Tilbury | Skin Type: All | Category: Concealer | Product: Beautiful Skin Radiant Concealer
+Brand: Hourglass | Skin Type: Dry/Combo | Category: Foundation | Product: Ambient Soft Glow Foundation
+Brand: Anastasia Beverly Hills | Skin Type: All | Category: Eyeshadow | Product: Soft Glam Eyeshadow Palette
+Brand: Rare Beauty | Skin Type: All | Category: Lip Balm | Product: With Gratitude Dewy Lip Balm
+Brand: Dior | Skin Type: All | Category: Foundation | Product: Forever Skin Glow Foundation
+Brand: Danessa Myricks Beauty | Skin Type: All | Category: Highlighter | Product: Vision Flush Glow
+Brand: Saie | Skin Type: All | Category: Bronzer | Product: Sun Melt Natural Cream Bronzer
+Brand: Tower 28 Beauty | Skin Type: Sensitive | Category: Blush | Product: BeachPlease Luminous Tinted Balm
+Brand: RMS Beauty | Skin Type: All | Category: Concealer | Product: UnCoverup Concealer
+Brand: Rose Inc | Skin Type: All | Category: Lipstick | Product: Satin Lip Color Rich Refillable Lipstick
+Brand: Westman Atelier | Skin Type: All | Category: Highlighter | Product: Lit Up Highlight Stick
+Brand: LYS Beauty | Skin Type: All | Category: Foundation | Product: Triple Fix Serum Foundation
+Brand: Merit | Skin Type: All | Category: Blush | Product: Flush Balm Cream Blush
+Brand: Haus Labs by Lady Gaga | Skin Type: All | Category: Lip Oil | Product: PhD Hybrid Lip Oil
+Brand: ONE/SIZE by Patrick Starrr | Skin Type: All | Category: Setting Spray | Product: Until Dawn Mattifying Waterproof Setting Spray
+Brand: Caliray | Skin Type: All | Category: Mascara | Product: Come Hell or High Water Mascara
+Brand: GXVE by Gwen Stefani | Skin Type: All | Category: Lipstick | Product: Original Me High-Performance Matte Lipstick
+Brand: Ami Colé | Skin Type: All | Category: Tinted Moisturizer | Product: Skin-Enhancing Tint
+Brand: Kosas | Skin Type: Sensitive | Category: Concealer | Product: Revealer Super Creamy + Brightening Concealer
+Brand: Lawless | Skin Type: All | Category: Lip Gloss | Product: Forget The Filler Lip Plumper Line Smoothing Gloss
+Brand: Bite Beauty | Skin Type: All | Category: Lipstick | Product: Power Move Creamy Matte Lip Crayon
+Brand: Nudestix | Skin Type: All | Category: Eyeshadow | Product: Magnetic Luminous Eye Color
+Brand: Wander Beauty | Skin Type: All | Category: Mascara | Product: Mile High Club Volume and Length Mascara
+Brand: Ilia | Skin Type: All | Category: Lipstick | Product: Color Block High Impact Lipstick
+Brand: Cover FX | Skin Type: All | Category: Highlighter | Product: Custom Enhancer Drops
+Brand: bareMinerals | Skin Type: Sensitive | Category: Foundation | Product: Original Loose Powder Foundation SPF 15
+Brand: Youthforia | Skin Type: All | Category: Blush | Product: BYO Color Changing Blush Oil
+Brand: Jason Wu Beauty | Skin Type: All | Category: Lip Liner | Product: Stay In Line Lip Pencil
+Brand: Well People | Skin Type: Sensitive | Category: Concealer | Product: Bio Correct Concealer
+Brand: Thrive Causemetics | Skin Type: All | Category: Mascara | Product: Liquid Lash Extensions Mascara
+Brand: Surratt Beauty | Skin Type: All | Category: Eyeliner | Product: Auto-Graphique Liquid Eyeliner
+Brand: Sephora Collection | Skin Type: All | Category: Primer | Product: Smooth + Blur Primer
+Brand: Youthforia | Skin Type: All | Category: Foundation | Product: Date Night Skin Tint Serum Foundation
+Brand: Danessa Myricks Beauty | Skin Type: All | Category: Blush | Product: Colorfix Matte Liquid Pigment
+Brand: Ami Colé | Skin Type: All | Category: Lip Oil | Product: Lip Treatment Oil
