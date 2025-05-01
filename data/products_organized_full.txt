@@ -1,0 +1,200 @@
+Brand: Dior | Skin Type: Normal | Category: Lipstick | Product: Dior Lipstick 282
+Brand: Too Faced | Skin Type: Dry | Category: Concealer | Product: Too Faced Concealer 755
+Brand: Dior | Skin Type: Normal | Category: Eyeliner | Product: Dior Eyeliner 914
+Brand: Make Up For Ever | Skin Type: Sensitive | Category: Lip Gloss | Product: Make Up For Ever Lip Gloss 433
+Brand: Rare Beauty | Skin Type: All | Category: Lipstick | Product: Rare Beauty Lipstick 224
+Brand: Too Faced | Skin Type: Sensitive | Category: Setting Spray | Product: Too Faced Setting Spray 28
+Brand: Make Up For Ever | Skin Type: Normal | Category: Concealer | Product: Make Up For Ever Concealer 666
+Brand: Make Up For Ever | Skin Type: Dry | Category: Highlighter | Product: Make Up For Ever Highlighter 460
+Brand: Tower 28 | Skin Type: All | Category: Bronzer | Product: Tower 28 Bronzer 778
+Brand: NARS | Skin Type: Combination | Category: Eyeshadow | Product: NARS Eyeshadow 349
+Brand: Urban Decay | Skin Type: Dry | Category: Foundation | Product: Urban Decay Foundation 981
+Brand: Milk Makeup | Skin Type: All | Category: Lip Gloss | Product: Milk Makeup Lip Gloss 390
+Brand: Dior | Skin Type: Oily | Category: Blush | Product: Dior Blush 619
+Brand: Urban Decay | Skin Type: All | Category: Brow Pencil | Product: Urban Decay Brow Pencil 748
+Brand: Pat McGrath Labs | Skin Type: All | Category: Setting Spray | Product: Pat McGrath Labs Setting Spray 997
+Brand: KVD Beauty | Skin Type: Sensitive | Category: Lip Gloss | Product: KVD Beauty Lip Gloss 301
+Brand: Benefit Cosmetics | Skin Type: Oily | Category: BB Cream | Product: Benefit Cosmetics BB Cream 592
+Brand: Huda Beauty | Skin Type: All | Category: Eyeshadow | Product: Huda Beauty Eyeshadow 47
+Brand: Too Faced | Skin Type: Oily | Category: Brow Pencil | Product: Too Faced Brow Pencil 82
+Brand: Too Faced | Skin Type: All | Category: Tinted Moisturizer | Product: Too Faced Tinted Moisturizer 390
+Brand: Urban Decay | Skin Type: Normal | Category: Primer | Product: Urban Decay Primer 855
+Brand: Tarte | Skin Type: Oily | Category: Foundation | Product: Tarte Foundation 364
+Brand: Huda Beauty | Skin Type: Oily | Category: Eyeliner | Product: Huda Beauty Eyeliner 719
+Brand: Charlotte Tilbury | Skin Type: Normal | Category: Mascara | Product: Charlotte Tilbury Mascara 176
+Brand: Make Up For Ever | Skin Type: Dry | Category: Eyeshadow | Product: Make Up For Ever Eyeshadow 168
+Brand: Pat McGrath Labs | Skin Type: Oily | Category: Highlighter | Product: Pat McGrath Labs Highlighter 948
+Brand: Make Up For Ever | Skin Type: Normal | Category: Concealer | Product: Make Up For Ever Concealer 333
+Brand: Rare Beauty | Skin Type: All | Category: Concealer | Product: Rare Beauty Concealer 825
+Brand: Milk Makeup | Skin Type: Oily | Category: Highlighter | Product: Milk Makeup Highlighter 68
+Brand: Huda Beauty | Skin Type: Sensitive | Category: BB Cream | Product: Huda Beauty BB Cream 898
+Brand: Milk Makeup | Skin Type: Normal | Category: Concealer | Product: Milk Makeup Concealer 512
+Brand: KVD Beauty | Skin Type: Normal | Category: BB Cream | Product: KVD Beauty BB Cream 470
+Brand: Sephora Collection | Skin Type: Dry | Category: Bronzer | Product: Sephora Collection Bronzer 253
+Brand: Make Up For Ever | Skin Type: Oily | Category: Setting Spray | Product: Make Up For Ever Setting Spray 765
+Brand: Tower 28 | Skin Type: Sensitive | Category: Highlighter | Product: Tower 28 Highlighter 409
+Brand: Tarte | Skin Type: Dry | Category: Concealer | Product: Tarte Concealer 522
+Brand: ILIA | Skin Type: All | Category: Lip Gloss | Product: ILIA Lip Gloss 882
+Brand: Dior | Skin Type: Normal | Category: Foundation | Product: Dior Foundation 164
+Brand: Clinique | Skin Type: All | Category: Mascara | Product: Clinique Mascara 395
+Brand: KVD Beauty | Skin Type: Combination | Category: Mascara | Product: KVD Beauty Mascara 542
+Brand: Urban Decay | Skin Type: All | Category: Setting Spray | Product: Urban Decay Setting Spray 697
+Brand: Dior | Skin Type: Sensitive | Category: Eyeliner | Product: Dior Eyeliner 769
+Brand: Urban Decay | Skin Type: Normal | Category: Brow Pencil | Product: Urban Decay Brow Pencil 349
+Brand: Dior | Skin Type: Combination | Category: Bronzer | Product: Dior Bronzer 162
+Brand: Pat McGrath Labs | Skin Type: Normal | Category: Lipstick | Product: Pat McGrath Labs Lipstick 897
+Brand: Urban Decay | Skin Type: Dry | Category: Setting Spray | Product: Urban Decay Setting Spray 520
+Brand: Dior | Skin Type: Normal | Category: Tinted Moisturizer | Product: Dior Tinted Moisturizer 306
+Brand: Smashbox | Skin Type: Dry | Category: Mascara | Product: Smashbox Mascara 157
+Brand: Tarte | Skin Type: Dry | Category: Brow Pencil | Product: Tarte Brow Pencil 553
+Brand: Smashbox | Skin Type: All | Category: BB Cream | Product: Smashbox BB Cream 614
+Brand: Milk Makeup | Skin Type: All | Category: Primer | Product: Milk Makeup Primer 115
+Brand: Tarte | Skin Type: Oily | Category: BB Cream | Product: Tarte BB Cream 246
+Brand: Rare Beauty | Skin Type: Sensitive | Category: Concealer | Product: Rare Beauty Concealer 970
+Brand: Charlotte Tilbury | Skin Type: Normal | Category: Lip Gloss | Product: Charlotte Tilbury Lip Gloss 498
+Brand: Charlotte Tilbury | Skin Type: Sensitive | Category: Brow Pencil | Product: Charlotte Tilbury Brow Pencil 785
+Brand: Sephora Collection | Skin Type: Normal | Category: Foundation | Product: Sephora Collection Foundation 487
+Brand: Make Up For Ever | Skin Type: Oily | Category: Foundation | Product: Make Up For Ever Foundation 541
+Brand: Benefit Cosmetics | Skin Type: Dry | Category: Highlighter | Product: Benefit Cosmetics Highlighter 952
+Brand: Make Up For Ever | Skin Type: Normal | Category: Brow Pencil | Product: Make Up For Ever Brow Pencil 707
+Brand: Huda Beauty | Skin Type: Oily | Category: Eyeshadow | Product: Huda Beauty Eyeshadow 409
+Brand: Tarte | Skin Type: Sensitive | Category: Primer | Product: Tarte Primer 463
+Brand: Dior | Skin Type: Dry | Category: Concealer | Product: Dior Concealer 66
+Brand: Milk Makeup | Skin Type: Sensitive | Category: Lipstick | Product: Milk Makeup Lipstick 568
+Brand: Too Faced | Skin Type: Dry | Category: Mascara | Product: Too Faced Mascara 8
+Brand: Charlotte Tilbury | Skin Type: Normal | Category: Eyeshadow | Product: Charlotte Tilbury Eyeshadow 61
+Brand: Too Faced | Skin Type: All | Category: Lip Gloss | Product: Too Faced Lip Gloss 881
+Brand: Milk Makeup | Skin Type: Sensitive | Category: Lip Gloss | Product: Milk Makeup Lip Gloss 244
+Brand: Urban Decay | Skin Type: Combination | Category: Eyeliner | Product: Urban Decay Eyeliner 220
+Brand: Make Up For Ever | Skin Type: Normal | Category: Foundation | Product: Make Up For Ever Foundation 958
+Brand: Tower 28 | Skin Type: Combination | Category: Mascara | Product: Tower 28 Mascara 249
+Brand: ILIA | Skin Type: Combination | Category: Brow Pencil | Product: ILIA Brow Pencil 195
+Brand: Dior | Skin Type: Normal | Category: Lip Gloss | Product: Dior Lip Gloss 442
+Brand: Tarte | Skin Type: Combination | Category: Highlighter | Product: Tarte Highlighter 479
+Brand: Rare Beauty | Skin Type: Normal | Category: Eyeliner | Product: Rare Beauty Eyeliner 662
+Brand: Dior | Skin Type: Combination | Category: Lipstick | Product: Dior Lipstick 746
+Brand: Milk Makeup | Skin Type: All | Category: Brow Pencil | Product: Milk Makeup Brow Pencil 255
+Brand: Huda Beauty | Skin Type: Sensitive | Category: Concealer | Product: Huda Beauty Concealer 460
+Brand: Sephora Collection | Skin Type: Dry | Category: Highlighter | Product: Sephora Collection Highlighter 286
+Brand: Pat McGrath Labs | Skin Type: All | Category: Concealer | Product: Pat McGrath Labs Concealer 454
+Brand: Make Up For Ever | Skin Type: All | Category: Lip Gloss | Product: Make Up For Ever Lip Gloss 668
+Brand: Make Up For Ever | Skin Type: All | Category: Tinted Moisturizer | Product: Make Up For Ever Tinted Moisturizer 993
+Brand: Charlotte Tilbury | Skin Type: Dry | Category: BB Cream | Product: Charlotte Tilbury BB Cream 171
+Brand: Clinique | Skin Type: Combination | Category: Primer | Product: Clinique Primer 219
+Brand: KVD Beauty | Skin Type: All | Category: BB Cream | Product: KVD Beauty BB Cream 169
+Brand: KVD Beauty | Skin Type: Combination | Category: Lipstick | Product: KVD Beauty Lipstick 272
+Brand: Pat McGrath Labs | Skin Type: Combination | Category: Bronzer | Product: Pat McGrath Labs Bronzer 714
+Brand: Make Up For Ever | Skin Type: Normal | Category: Eyeliner | Product: Make Up For Ever Eyeliner 499
+Brand: Sephora Collection | Skin Type: Oily | Category: Concealer | Product: Sephora Collection Concealer 223
+Brand: Rare Beauty | Skin Type: Normal | Category: Mascara | Product: Rare Beauty Mascara 556
+Brand: Rare Beauty | Skin Type: Oily | Category: Eyeshadow | Product: Rare Beauty Eyeshadow 59
+Brand: Rare Beauty | Skin Type: Combination | Category: Mascara | Product: Rare Beauty Mascara 515
+Brand: Smashbox | Skin Type: All | Category: Foundation | Product: Smashbox Foundation 984
+Brand: Smashbox | Skin Type: Dry | Category: Lip Gloss | Product: Smashbox Lip Gloss 71
+Brand: Benefit Cosmetics | Skin Type: Normal | Category: Lip Gloss | Product: Benefit Cosmetics Lip Gloss 883
+Brand: Too Faced | Skin Type: All | Category: Highlighter | Product: Too Faced Highlighter 965
+Brand: Tower 28 | Skin Type: Sensitive | Category: Concealer | Product: Tower 28 Concealer 609
+Brand: Rare Beauty | Skin Type: All | Category: Mascara | Product: Rare Beauty Mascara 430
+Brand: Tower 28 | Skin Type: Sensitive | Category: Mascara | Product: Tower 28 Mascara 324
+Brand: Urban Decay | Skin Type: Normal | Category: Concealer | Product: Urban Decay Concealer 734
+Brand: Milk Makeup | Skin Type: Oily | Category: Concealer | Product: Milk Makeup Concealer 406
+Brand: Sephora Collection | Skin Type: Normal | Category: Eyeliner | Product: Sephora Collection Eyeliner 308
+Brand: Pat McGrath Labs | Skin Type: All | Category: Blush | Product: Pat McGrath Labs Blush 10
+Brand: Pat McGrath Labs | Skin Type: Sensitive | Category: Mascara | Product: Pat McGrath Labs Mascara 103
+Brand: Charlotte Tilbury | Skin Type: Dry | Category: Setting Spray | Product: Charlotte Tilbury Setting Spray 519
+Brand: Urban Decay | Skin Type: Oily | Category: Foundation | Product: Urban Decay Foundation 903
+Brand: Charlotte Tilbury | Skin Type: Dry | Category: BB Cream | Product: Charlotte Tilbury BB Cream 379
+Brand: Anastasia Beverly Hills | Skin Type: Combination | Category: Foundation | Product: Anastasia Beverly Hills Foundation 854
+Brand: Make Up For Ever | Skin Type: Oily | Category: Eyeshadow | Product: Make Up For Ever Eyeshadow 627
+Brand: Smashbox | Skin Type: Normal | Category: Lipstick | Product: Smashbox Lipstick 837
+Brand: Make Up For Ever | Skin Type: Normal | Category: Bronzer | Product: Make Up For Ever Bronzer 107
+Brand: Sephora Collection | Skin Type: All | Category: Bronzer | Product: Sephora Collection Bronzer 912
+Brand: Dior | Skin Type: Sensitive | Category: Eyeshadow | Product: Dior Eyeshadow 160
+Brand: Urban Decay | Skin Type: Sensitive | Category: Bronzer | Product: Urban Decay Bronzer 216
+Brand: Milk Makeup | Skin Type: Normal | Category: Concealer | Product: Milk Makeup Concealer 650
+Brand: Urban Decay | Skin Type: Combination | Category: Setting Spray | Product: Urban Decay Setting Spray 258
+Brand: Rare Beauty | Skin Type: Normal | Category: Lip Gloss | Product: Rare Beauty Lip Gloss 434
+Brand: Urban Decay | Skin Type: All | Category: Lipstick | Product: Urban Decay Lipstick 342
+Brand: Sephora Collection | Skin Type: Oily | Category: Eyeliner | Product: Sephora Collection Eyeliner 166
+Brand: Pat McGrath Labs | Skin Type: Normal | Category: Setting Spray | Product: Pat McGrath Labs Setting Spray 438
+Brand: Make Up For Ever | Skin Type: All | Category: Lipstick | Product: Make Up For Ever Lipstick 78
+Brand: Sephora Collection | Skin Type: All | Category: Setting Spray | Product: Sephora Collection Setting Spray 855
+Brand: Tarte | Skin Type: Sensitive | Category: Mascara | Product: Tarte Mascara 152
+Brand: Clinique | Skin Type: All | Category: Foundation | Product: Clinique Foundation 316
+Brand: Tarte | Skin Type: All | Category: BB Cream | Product: Tarte BB Cream 921
+Brand: Tarte | Skin Type: Normal | Category: Concealer | Product: Tarte Concealer 256
+Brand: Dior | Skin Type: Sensitive | Category: Blush | Product: Dior Blush 906
+Brand: Clinique | Skin Type: Normal | Category: Mascara | Product: Clinique Mascara 159
+Brand: Too Faced | Skin Type: Dry | Category: Tinted Moisturizer | Product: Too Faced Tinted Moisturizer 820
+Brand: NARS | Skin Type: Combination | Category: BB Cream | Product: NARS BB Cream 26
+Brand: NARS | Skin Type: Oily | Category: Eyeshadow | Product: NARS Eyeshadow 802
+Brand: Clinique | Skin Type: Normal | Category: Brow Pencil | Product: Clinique Brow Pencil 885
+Brand: Too Faced | Skin Type: Dry | Category: Bronzer | Product: Too Faced Bronzer 807
+Brand: Dior | Skin Type: All | Category: Highlighter | Product: Dior Highlighter 880
+Brand: ILIA | Skin Type: Dry | Category: Concealer | Product: ILIA Concealer 837
+Brand: Pat McGrath Labs | Skin Type: Oily | Category: Blush | Product: Pat McGrath Labs Blush 841
+Brand: Too Faced | Skin Type: All | Category: Concealer | Product: Too Faced Concealer 676
+Brand: Huda Beauty | Skin Type: Oily | Category: Highlighter | Product: Huda Beauty Highlighter 286
+Brand: Charlotte Tilbury | Skin Type: Oily | Category: Brow Pencil | Product: Charlotte Tilbury Brow Pencil 360
+Brand: Smashbox | Skin Type: Normal | Category: Highlighter | Product: Smashbox Highlighter 864
+Brand: Make Up For Ever | Skin Type: All | Category: Blush | Product: Make Up For Ever Blush 119
+Brand: Urban Decay | Skin Type: Sensitive | Category: Foundation | Product: Urban Decay Foundation 986
+Brand: Urban Decay | Skin Type: All | Category: Lipstick | Product: Urban Decay Lipstick 611
+Brand: Clinique | Skin Type: Normal | Category: Blush | Product: Clinique Blush 806
+Brand: Milk Makeup | Skin Type: Sensitive | Category: Highlighter | Product: Milk Makeup Highlighter 524
+Brand: Dior | Skin Type: Sensitive | Category: Highlighter | Product: Dior Highlighter 195
+Brand: Urban Decay | Skin Type: Normal | Category: Lipstick | Product: Urban Decay Lipstick 447
+Brand: Fenty Beauty | Skin Type: Sensitive | Category: Setting Spray | Product: Fenty Beauty Setting Spray 704
+Brand: Huda Beauty | Skin Type: Combination | Category: Blush | Product: Huda Beauty Blush 72
+Brand: Milk Makeup | Skin Type: Oily | Category: Mascara | Product: Milk Makeup Mascara 680
+Brand: Dior | Skin Type: Oily | Category: Eyeshadow | Product: Dior Eyeshadow 520
+Brand: Anastasia Beverly Hills | Skin Type: Combination | Category: Eyeliner | Product: Anastasia Beverly Hills Eyeliner 335
+Brand: KVD Beauty | Skin Type: Oily | Category: Eyeshadow | Product: KVD Beauty Eyeshadow 568
+Brand: Sephora Collection | Skin Type: Combination | Category: Concealer | Product: Sephora Collection Concealer 681
+Brand: KVD Beauty | Skin Type: Normal | Category: Eyeliner | Product: KVD Beauty Eyeliner 925
+Brand: NARS | Skin Type: Sensitive | Category: Mascara | Product: NARS Mascara 309
+Brand: KVD Beauty | Skin Type: All | Category: Setting Spray | Product: KVD Beauty Setting Spray 312
+Brand: Anastasia Beverly Hills | Skin Type: Combination | Category: Concealer | Product: Anastasia Beverly Hills Concealer 805
+Brand: Tower 28 | Skin Type: Normal | Category: Mascara | Product: Tower 28 Mascara 330
+Brand: Pat McGrath Labs | Skin Type: Combination | Category: Primer | Product: Pat McGrath Labs Primer 692
+Brand: Huda Beauty | Skin Type: Combination | Category: Setting Spray | Product: Huda Beauty Setting Spray 813
+Brand: NARS | Skin Type: All | Category: Eyeliner | Product: NARS Eyeliner 291
+Brand: Smashbox | Skin Type: Normal | Category: Eyeliner | Product: Smashbox Eyeliner 635
+Brand: Milk Makeup | Skin Type: Dry | Category: Lip Gloss | Product: Milk Makeup Lip Gloss 689
+Brand: Anastasia Beverly Hills | Skin Type: Dry | Category: Concealer | Product: Anastasia Beverly Hills Concealer 151
+Brand: Fenty Beauty | Skin Type: Dry | Category: Lipstick | Product: Fenty Beauty Lipstick 487
+Brand: Benefit Cosmetics | Skin Type: All | Category: Tinted Moisturizer | Product: Benefit Cosmetics Tinted Moisturizer 467
+Brand: Clinique | Skin Type: Normal | Category: BB Cream | Product: Clinique BB Cream 590
+Brand: Huda Beauty | Skin Type: Normal | Category: Eyeshadow | Product: Huda Beauty Eyeshadow 394
+Brand: ILIA | Skin Type: Dry | Category: Highlighter | Product: ILIA Highlighter 152
+Brand: Fenty Beauty | Skin Type: All | Category: BB Cream | Product: Fenty Beauty BB Cream 798
+Brand: Clinique | Skin Type: Dry | Category: Concealer | Product: Clinique Concealer 824
+Brand: Smashbox | Skin Type: All | Category: Primer | Product: Smashbox Primer 571
+Brand: Too Faced | Skin Type: All | Category: BB Cream | Product: Too Faced BB Cream 468
+Brand: Sephora Collection | Skin Type: Combination | Category: Brow Pencil | Product: Sephora Collection Brow Pencil 684
+Brand: Smashbox | Skin Type: Sensitive | Category: Setting Spray | Product: Smashbox Setting Spray 325
+Brand: Pat McGrath Labs | Skin Type: Normal | Category: Mascara | Product: Pat McGrath Labs Mascara 914
+Brand: Smashbox | Skin Type: Sensitive | Category: Highlighter | Product: Smashbox Highlighter 457
+Brand: NARS | Skin Type: Combination | Category: Eyeshadow | Product: NARS Eyeshadow 461
+Brand: Urban Decay | Skin Type: Dry | Category: Brow Pencil | Product: Urban Decay Brow Pencil 861
+Brand: Urban Decay | Skin Type: Sensitive | Category: Brow Pencil | Product: Urban Decay Brow Pencil 497
+Brand: Too Faced | Skin Type: Combination | Category: Bronzer | Product: Too Faced Bronzer 80
+Brand: Anastasia Beverly Hills | Skin Type: Oily | Category: Concealer | Product: Anastasia Beverly Hills Concealer 344
+Brand: Milk Makeup | Skin Type: Sensitive | Category: BB Cream | Product: Milk Makeup BB Cream 83
+Brand: Sephora Collection | Skin Type: Dry | Category: Foundation | Product: Sephora Collection Foundation 393
+Brand: Sephora Collection | Skin Type: Dry | Category: Eyeshadow | Product: Sephora Collection Eyeshadow 66
+Brand: Clinique | Skin Type: Oily | Category: Highlighter | Product: Clinique Highlighter 556
+Brand: Pat McGrath Labs | Skin Type: All | Category: Highlighter | Product: Pat McGrath Labs Highlighter 212
+Brand: Clinique | Skin Type: Sensitive | Category: Highlighter | Product: Clinique Highlighter 969
+Brand: Fenty Beauty | Skin Type: Sensitive | Category: Tinted Moisturizer | Product: Fenty Beauty Tinted Moisturizer 390
+Brand: ILIA | Skin Type: Oily | Category: Lipstick | Product: ILIA Lipstick 306
+Brand: KVD Beauty | Skin Type: Combination | Category: Tinted Moisturizer | Product: KVD Beauty Tinted Moisturizer 552
+Brand: Make Up For Ever | Skin Type: Sensitive | Category: Brow Pencil | Product: Make Up For Ever Brow Pencil 920
+Brand: Too Faced | Skin Type: Dry | Category: Primer | Product: Too Faced Primer 280
+Brand: Clinique | Skin Type: All | Category: Primer | Product: Clinique Primer 399
+Brand: Milk Makeup | Skin Type: Normal | Category: Eyeliner | Product: Milk Makeup Eyeliner 818
+Brand: KVD Beauty | Skin Type: Dry | Category: Eyeshadow | Product: KVD Beauty Eyeshadow 861
+Brand: Pat McGrath Labs | Skin Type: Dry | Category: BB Cream | Product: Pat McGrath Labs BB Cream 638
+Brand: Make Up For Ever | Skin Type: Combination | Category: Lipstick | Product: Make Up For Ever Lipstick 607
+Brand: Tower 28 | Skin Type: All | Category: Eyeliner | Product: Tower 28 Eyeliner 86
+Brand: Clinique | Skin Type: Combination | Category: Foundation | Product: Clinique Foundation 187

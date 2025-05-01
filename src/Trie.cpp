@@ -1,56 +1,47 @@
 #include "../include/Trie.h"
-#include <algorithm> // for std::transform
+using namespace std;
 
-// Helper function to convert strings to lowercase
-std::string toLower(const std::string& str) {
-    std::string result = str;
-    std::transform(result.begin(), result.end(), result.begin(), ::tolower);
-    return result;
+// Constructor: initializes an empty TrieNode
+TrieNode::TrieNode() {
+    isEndOfWord = false;
 }
 
-TrieNode::TrieNode() : isEndOfWord(false) {}
-
+// Constructor: initializes the root node of the Trie
 Trie::Trie() {
     root = new TrieNode();
 }
 
-void Trie::insert(const std::string& word) {
-    std::string lowerWord = toLower(word);
+// Insert a word into the Trie and attach the full product line to the node where the word ends
+void Trie::insert(const string& word, const string& fullLine) {
     TrieNode* node = root;
-    for (char ch : lowerWord) {
+    for (char ch : word) {
         if (!node->children.count(ch)) {
             node->children[ch] = new TrieNode();
         }
         node = node->children[ch];
     }
     node->isEndOfWord = true;
+    node->lines.insert(fullLine);  // Store the full product line at the end node
 }
 
-bool Trie::search(const std::string& word) {
-    std::string lowerWord = toLower(word);
+// Recursive depth-first search to collect all full lines under a Trie node
+void Trie::dfs(TrieNode* node, vector<string>& results) {
+    for (const string& line : node->lines) {
+        results.push_back(line);  // Collect matching product line
+    }
+    for (auto& pair : node->children) {
+        dfs(pair.second, results);  // Recurse through child nodes
+    }
+}
+
+// Search the Trie for all lines that match a given prefix
+vector<string> Trie::getMatchingLines(const string& prefix) {
     TrieNode* node = root;
-    for (char ch : lowerWord) {
-        if (!node->children.count(ch)) return false;
+    for (char ch : prefix) {
+        if (!node->children.count(ch)) return {};  // Prefix not found
         node = node->children[ch];
     }
-    return node->isEndOfWord;
-}
-
-void Trie::dfs(TrieNode* node, std::string prefix, std::vector<std::string>& results) {
-    if (node->isEndOfWord) results.push_back(prefix);
-    for (auto& [ch, child] : node->children) {
-        dfs(child, prefix + ch, results);
-    }
-}
-
-std::vector<std::string> Trie::getSuggestions(const std::string& prefix) {
-    std::string lowerPrefix = toLower(prefix);
-    TrieNode* node = root;
-    for (char ch : lowerPrefix) {
-        if (!node->children.count(ch)) return {};
-        node = node->children[ch];
-    }
-    std::vector<std::string> results;
-    dfs(node, lowerPrefix, results);
+    vector<string> results;
+    dfs(node, results);  // Gather all lines under this prefix node
     return results;
 }

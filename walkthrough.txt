@@ -1,15 +1,50 @@
-# Walkthrough – Smart Makeup Search Using Trie Data Structure
+SMART MAKEUP SEARCH PROJECT - WALKTHROUGH
 
-## 1. Project Summary
-This C++ application helps users search for makeup products using a smart autocomplete system powered by a Trie (prefix tree). Users type a partial product name and receive fast suggestions that match the prefix.
+Overview:
+----------
+This project implements a command-line tool that allows users to search through a curated dataset of makeup products using prefix-based search. 
+The search is powered by a Trie data structure, allowing autocomplete-like matching. Users can type one or more prefix terms, 
+and the tool returns full product lines that contain words starting with all given prefixes.
 
-## 2. How It Works
-- The program loads a list of makeup products from a file (`products.txt`)
-- Each product name is inserted into the Trie
-- When a user types in a prefix, the Trie is searched using DFS to collect and return all valid word suggestions that start with that prefix
+How it Works:
+-------------
+1. The program loads a dataset from:
+   data/products_organized_full.txt
 
-## 3. Example Use Case
-If the user types: fen
-The oytput will be: 
-	•	Fenty Foundation
-	•	Fenty Lip Gloss
+2. Each full product line (e.g., brand, category, product) is read and broken into words.
+   Each word is inserted into a Trie. At each word’s end, the full product line is stored.
+
+3. The user enters one or more prefixes (e.g., "foun oily").
+   For each prefix, the program finds all matching words and collects their associated product lines.
+
+4. The final result shows only the product lines that match all given prefixes.
+
+How to Use:
+-----------
+1. Open terminal in your project directory.
+2. Compile the code:
+   make
+
+3. Run the program:
+   ./SmartMakeupSearch
+
+4. You’ll see a prompt:
+   Enter prefix term(s): foun oily
+   (Press Enter to get results)
+
+5. Type 'exit' to quit.
+
+File Summary:
+-------------
+- main.cpp        → Handles reading, searching, and user interaction
+- Trie.h / Trie.cpp → Implements the prefix-based Trie with full line storage
+- Makefile        → Compiles main and Trie source files
+- data/products_organized_full.txt → Makeup product dataset
+
+Example Searches:
+------------------
+Input:  foun oily
+Result: Full lines containing both “foundation” and “oily”
+
+Input:  gloss sensitive
+Result: Lip gloss products for sensitive skin
