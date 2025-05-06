@@ -73,4 +73,3 @@ Citations and References
 - Trie Basics Explained: https://youtu.be/c6OXmAlpS9c
 - zyBooks CSPB 2270: Computer Science 2: Data Structures
 - Makeup product references based on Sephora.com for educational use only
-- Text processing using std::transform and std::remove_if in C++
